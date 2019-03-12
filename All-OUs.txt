@@ -1,0 +1,1 @@
+OU=Domain Controllers,DC=JDTAY,DC=LOCAL
